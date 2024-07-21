@@ -3,8 +3,8 @@ import React from 'react'
 const Footer = () => {
     return (
         <>
-            <div className="Footer">
-                <div className="container">
+            <div className="Footer" >
+                <div className="container" >
                     <div className="row">
                         <div className="col-md-6 col-lg-5 col-12 ft-1">
                             <h3><span>WALEED</span>CODES</h3>
@@ -45,9 +45,7 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <div className='Last-footer'>
-                <p>Design By Waleed Ishfaq</p>
-            </div>
+
         </>
     )
 }
